@@ -1,6 +1,6 @@
 {
-    "homepage": "http://Sekiro89.github.io/Weatherapp/",
-    "name": "Weather-app",
+    "homepage": "http://Sekiro89.github.io/Weatherapp",
+    "name": "weather-app",
     "private": true,
     "version": "0.0.0",
     "type": "module",
